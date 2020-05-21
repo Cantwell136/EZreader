@@ -1,0 +1,2 @@
+# EZreader
+static data reader 
